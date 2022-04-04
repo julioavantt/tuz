@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/799.9194c1e6.chunk.js","mappings":"iKAAe,SAASA,IACrB,OAAO,gBAAKC,UAAU,YAAf","sources":["components/views/Error404/Error404.jsx"],"sourcesContent":["export default function Error404() {\r\n   return <div className=\"container\">Página no existente</div>\r\n}\r\n"],"names":["Error404","className"],"sourceRoot":""}
