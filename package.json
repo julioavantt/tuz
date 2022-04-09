@@ -1,8 +1,8 @@
 {
    "name": "goscrum",
    "version": "0.1.0",
-   "homepage": "https://julioavantt.github.io/goscrum",
    "private": true,
+   "homepage": "https://julioavantt.github.io/goscrum",
    "dependencies": {
       "@emotion/react": "^11.8.1",
       "@emotion/styled": "^11.8.1",

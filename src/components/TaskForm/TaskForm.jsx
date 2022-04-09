@@ -18,6 +18,7 @@ export const TaskForm = () => {
    const onSubmit = () => {
       fetch(`${API_ENDPOINT}task`, {
          method: "POST",
+         mode: "cors",
          headers: {
             "Content-Type": "application/json",
             Authorization: "Bearer " + localStorage.getItem("token"),

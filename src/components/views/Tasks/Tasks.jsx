@@ -43,7 +43,7 @@ export const Tasks = () => {
       if (search)
          setRenderList(list.filter(data => data.title.startsWith(search)))
       else setRenderList(list)
-   }, [search])
+   }, [search, list])
 
    const renderAllCards = () => {
       return renderList?.map(data => (
